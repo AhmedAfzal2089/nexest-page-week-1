@@ -9,8 +9,10 @@ import SeventhLogo from "../../public/client svgs/seventhLogo";
 
 const OurClientSection = () => {
   return (
-    <div className="flex flex-col items-center gap-7  px-5">
-      <span className="font-bold text-4xl text-gray-600 mt-8">Our Clients</span>
+    <div className="flex flex-col items-center gap-9 px-5">
+      <span className="font-bold text-4xl text-gray-600 mt-18">
+        Our Clients
+      </span>
       <span className="text-gray-500 text-center max-w-md ">
         We have been working with some Fortune 500+ clients
       </span>
