@@ -7,6 +7,7 @@ import ThreeYears from "./components/ThreeYears";
 import ReinventItself from "./components/ReinventItself";
 import SiteFooterSection from "./components/SiteFooterSection";
 import CaringMarketing from "./components/CaringMarketing";
+import BeforeFooter from "./components/BeforeFooter";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <ReinventItself />
       <SiteFooterSection />
       <CaringMarketing />
+      <BeforeFooter />
     </>
   );
 };
