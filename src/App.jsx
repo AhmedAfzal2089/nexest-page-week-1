@@ -6,6 +6,7 @@ import EntireCommunitySection from "./components/EntireCommunitySection";
 import ThreeYears from "./components/ThreeYears";
 import ReinventItself from "./components/ReinventItself";
 import SiteFooterSection from "./components/SiteFooterSection";
+import CaringMarketing from "./components/CaringMarketing";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <ThreeYears />
       <ReinventItself />
       <SiteFooterSection />
+      <CaringMarketing />
     </>
   );
 };
