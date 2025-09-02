@@ -1,4 +1,4 @@
-import Members from "../../public/client svgs/Members";
+import Members from "../client svgs/Members";
 
 const EntireCommunitySection = () => {
   return (

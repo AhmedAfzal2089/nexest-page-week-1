@@ -1,11 +1,11 @@
 import React from "react";
-import FirstLogo from "../../public/client svgs/firstLogo";
-import SecondLogo from "../../public/client svgs/secondLogo";
-import ThirdLogo from "../../public/client svgs/thirdLogo";
-import FourthLogo from "../../public/client svgs/fourthLogo";
-import FifthLogo from "../../public/client svgs/fifthLogo";
-import SixthLogo from "../../public/client svgs/sixthLogo";
-import SeventhLogo from "../../public/client svgs/seventhLogo";
+import FirstLogo from "../client svgs/firstLogo";
+import SecondLogo from "../client svgs/secondLogo";
+import ThirdLogo from "../client svgs/thirdLogo";
+import FourthLogo from "../client svgs/fourthLogo";
+import FifthLogo from "../client svgs/fifthLogo";
+import SixthLogo from "../client svgs/sixthLogo";
+import SeventhLogo from "../client svgs/seventhLogo";
 
 const OurClientSection = () => {
   return (
