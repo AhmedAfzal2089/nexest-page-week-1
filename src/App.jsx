@@ -4,6 +4,7 @@ import HeroSection from "./components/HeroSection";
 import OurClientSection from "./components/OurClientSection";
 import EntireCommunitySection from "./components/EntireCommunitySection";
 import ThreeYears from "./components/ThreeYears";
+import ReinventItself from "./components/ReinventItself";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <OurClientSection />
       <EntireCommunitySection />
       <ThreeYears />
+      <ReinventItself />
     </>
   );
 };

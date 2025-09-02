@@ -3,7 +3,7 @@ import HeroImage from "../assets/heroImage";
 
 const HeroSection = () => {
   return (
-    <div className="bg-slate-200 w-full lg:h-150 h-120 flex items-center lg:justify-around gap-20 px-5">
+    <div className="bg-slate-100 w-full lg:h-150 h-120 flex items-center lg:justify-around gap-20 px-5">
       <div className="flex flex-col gap-4">
         <span className="text-gray-800 font-bold lg:text-7xl text-4xl">
           Lessons and insights
