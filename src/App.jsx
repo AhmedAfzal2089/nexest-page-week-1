@@ -8,6 +8,7 @@ import ReinventItself from "./components/ReinventItself";
 import SiteFooterSection from "./components/SiteFooterSection";
 import CaringMarketing from "./components/CaringMarketing";
 import BeforeFooter from "./components/BeforeFooter";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <SiteFooterSection />
       <CaringMarketing />
       <BeforeFooter />
+      <Footer />
     </>
   );
 };
