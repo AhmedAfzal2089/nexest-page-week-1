@@ -5,6 +5,7 @@ import OurClientSection from "./components/OurClientSection";
 import EntireCommunitySection from "./components/EntireCommunitySection";
 import ThreeYears from "./components/ThreeYears";
 import ReinventItself from "./components/ReinventItself";
+import SiteFooterSection from "./components/SiteFooterSection";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <EntireCommunitySection />
       <ThreeYears />
       <ReinventItself />
+      <SiteFooterSection />
     </>
   );
 };

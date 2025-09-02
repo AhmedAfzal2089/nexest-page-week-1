@@ -1,17 +1,17 @@
-import image from "../pngs/image.png";
+import image from "../pngs/sitefooter/image.png";
 
-const ThreeYears = () => {
+const SiteFooterSection = () => {
   return (
-    <div className="flex flex-col lg:flex-row items-center justify-around mt-20 p-20 gap-5">
+    <div className="flex flex-col lg:flex-row items-center justify-around mt-20 p-10 gap-5">
       <div>
         <img src={image} alt="image" />
       </div>
       <div className="flex flex-col gap-4 lg:w-150">
         <span className="text-4xl font-bold text-gray-600">
-          The unseen of spending three
+          How to design your site footer like
         </span>
         <span className="text-4xl font-bold text-gray-600">
-          years at Pixelgrade
+         we did
         </span>
         <span className="text-gray-500 ">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ullam
@@ -27,4 +27,4 @@ const ThreeYears = () => {
   );
 };
 
-export default ThreeYears;
+export default SiteFooterSection;
