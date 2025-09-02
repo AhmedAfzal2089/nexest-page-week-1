@@ -21,7 +21,7 @@ const EntireCommunitySection = () => {
           <span className="text-2xl font-bold text-gray-600">
             Organizations
           </span>
-          <span className="w-60 flex items-center justify-center">
+          <span className="w-60 flex items-center justify-center  text-gray-500">
             Our membership management software provides full automation of
             membership renewals and payments
           </span>
