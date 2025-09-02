@@ -14,7 +14,7 @@ const HeroSection = () => {
         <span className="text-gray-500">
           Where to grow your business as a photographer:site or socual media{" "}
         </span>
-        <button className="px-15 py-3 bg-green-500 w-25 rounded-md flex justify-center">
+        <button className="px-15 py-3 bg-green-500 w-25 rounded-md flex justify-center text-white">
           Register
         </button>
       </div>
