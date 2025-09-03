@@ -1,6 +1,6 @@
 const ReinventItself = () => {
   return (
-    <div className="flex items-center justify-around mt-10 bg-slate-100 p-20 h-100">
+    <div className="flex items-center justify-center lg:justify-around mt-10 bg-slate-100 p-20 h-100">
       <div className="flex flex-col gap-3">
         <span className="text-4xl font-bold text-gray-600">
           Helping a local
