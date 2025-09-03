@@ -1,3 +1,5 @@
+import ClubsGroups from "../assets/ClubsGroups";
+import NationalAss from "../assets/NationalAss";
 import Members from "../client svgs/Members";
 
 const EntireCommunitySection = () => {
@@ -28,7 +30,7 @@ const EntireCommunitySection = () => {
         </div>
         <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-3/4 lg:w-1/5 py-8 gap-1">
           <div>
-            <Members />
+            <NationalAss />
           </div>
           <span className="text-2xl font-bold text-gray-600">National</span>
           <span className="text-2xl font-bold text-gray-600">Association</span>
@@ -39,7 +41,7 @@ const EntireCommunitySection = () => {
         </div>
         <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-3/4 lg:w-1/5 py-8 gap-1">
           <div>
-            <Members />
+            <ClubsGroups />
           </div>
           <span className="text-2xl font-bold text-gray-600">Clubs And</span>
           <span className="text-2xl font-bold text-gray-600">Groups</span>
