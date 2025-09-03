@@ -25,7 +25,7 @@ const HeroSection = () => {
         </div>
       </div>
 
-      <div className="flex gap-2 mt-10">
+      <div className="flex gap-2 mt-25">
         <span className="w-3 h-3 bg-green-500 rounded-full"></span>
         <span className="w-3 h-3 border-2 border-green-500 rounded-full"></span>
         <span className="w-3 h-3 border-2 border-green-500 rounded-full"></span>

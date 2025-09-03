@@ -13,7 +13,7 @@ const EntireCommunitySection = () => {
         <span className="text-gray-500">Who is nextcent suitable for?</span>
       </div>
       <div className="mt-5 flex flex-col lg:flex-row lg:gap-10 items-center justify-around">
-        <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-2/3 lg:w-1/5 py-8 gap-1">
+        <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-3/4 lg:w-1/5 py-8 gap-1">
           <div>
             <Members />
           </div>
@@ -26,7 +26,7 @@ const EntireCommunitySection = () => {
             membership renewals and payments
           </span>
         </div>
-        <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-2/3 lg:w-1/5 py-8 gap-1">
+        <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-3/4 lg:w-1/5 py-8 gap-1">
           <div>
             <Members />
           </div>
@@ -37,7 +37,7 @@ const EntireCommunitySection = () => {
             membership renewals and payments
           </span>
         </div>
-        <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-2/3 lg:w-1/5 py-8 gap-1">
+        <div className="flex flex-col items-center justify-center rounded-2xl shadow-xl w-3/4 lg:w-1/5 py-8 gap-1">
           <div>
             <Members />
           </div>
