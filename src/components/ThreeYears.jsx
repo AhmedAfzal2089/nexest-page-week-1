@@ -2,7 +2,7 @@ import image from "../pngs/image.png";
 
 const ThreeYears = () => {
   return (
-    <div className="flex flex-col lg:flex-row items-center justify-around mt-20 p-20 gap-5">
+    <div className="flex flex-col lg:flex-row items-center justify-around mt-20 p-10 lg:p-20 gap-5">
       <div>
         <img src={image} alt="image" />
       </div>
